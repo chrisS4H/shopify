@@ -1919,7 +1919,7 @@
           "parallax": false,
           "style": "dots",
           "autoplay": true,
-          "autoplay_speed": 5
+          "autoplay_speed": 8
         }
       },
       "1629455632fe0409c9": {
@@ -2764,13 +2764,11 @@
         },
         "blog-template": {
           "type": "blog-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {
-          }
+          "settings": {}
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -2909,13 +2907,11 @@
           "blocks": {
             "product-image-row": {
               "type": "image-row",
-              "settings": {
-              }
+              "settings": {}
             },
             "product-text-and-image": {
               "type": "text-and-image",
-              "settings": {
-              }
+              "settings": {}
             },
             "product-background-image-text": {
               "type": "background-image-text",
@@ -2925,13 +2921,11 @@
             },
             "product-text-columns": {
               "type": "text-columns",
-              "settings": {
-              }
+              "settings": {}
             },
             "product-hero-video": {
               "type": "hero-video",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -2941,16 +2935,14 @@
             "product-text-columns",
             "product-hero-video"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "page-sections-template": {
           "type": "page-sections-template",
           "blocks": {
             "page-fading-images": {
               "type": "fading-images",
-              "settings": {
-              }
+              "settings": {}
             },
             "page-rich-text": {
               "type": "rich-text",
@@ -2961,8 +2953,7 @@
             },
             "page-text-columns": {
               "type": "text-columns",
-              "settings": {
-              }
+              "settings": {}
             },
             "page-background-image-text": {
               "type": "background-image-text",
@@ -2972,8 +2963,7 @@
             },
             "page-featured-collection": {
               "type": "featured-collection",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -2983,8 +2973,7 @@
             "page-background-image-text",
             "page-featured-collection"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "content_for_index": [
@@ -3174,13 +3163,11 @@
         },
         "blog-template": {
           "type": "blog-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {
-          }
+          "settings": {}
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -3504,13 +3491,11 @@
         },
         "blog-template": {
           "type": "blog-template",
-          "settings": {
-          }
+          "settings": {}
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {
-          }
+          "settings": {}
         },
         "1499789718857": {
           "type": "featured-collections",
