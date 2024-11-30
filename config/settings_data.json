@@ -659,52 +659,16 @@
               "enlarge_text": true
             }
           },
-          "1599115816223": {
-            "type": "rich-text",
-            "settings": {
-              "title": "",
-              "text": "",
-              "align_text": "left",
-              "narrow_column": true,
-              "enlarge_text": true
-            }
-          },
-          "0a408fd9-173d-414b-888d-8127857d8947": {
+          "image_row_y3cCjj": {
             "type": "image-row",
             "settings": {
-              "image_1": "shopify://shop_images/S4H_Portraits-20780.jpg",
+              "image_1": "shopify://shop_images/Screenshot_2024-11-30_at_11.58.55.png",
               "image_1_link": "",
-              "image_2": "shopify://shop_images/S4H_Portraits-20809.jpg",
               "image_2_link": "",
-              "image_3": "shopify://shop_images/S4H_Portraits-20763.jpg",
               "image_3_link": "",
               "image_4_link": "",
               "enable_gutter": false,
-              "enable_zoom": false
-            }
-          },
-          "19c88287-3866-45e1-ab94-b4bb1666f0fd": {
-            "type": "image-row",
-            "settings": {
-              "image_1": "shopify://shop_images/S4H_Portraits-20723.jpg",
-              "image_1_link": "",
-              "image_2": "shopify://shop_images/S4H_Portraits-20667.jpg",
-              "image_2_link": "",
-              "image_3": "shopify://shop_images/S4H1546.jpg",
-              "image_3_link": "",
-              "image_4_link": "",
-              "enable_gutter": false,
-              "enable_zoom": false
-            }
-          },
-          "d3098a1e-94c5-4f62-a356-6d853c0a3856": {
-            "type": "rich-text",
-            "settings": {
-              "title": "",
-              "text": "",
-              "align_text": "left",
-              "narrow_column": false,
-              "enlarge_text": false
+              "enable_zoom": true
             }
           },
           "d0c4bd33-f824-42cc-b569-76eacf523fa0": {
@@ -759,10 +723,7 @@
           "1599076724437",
           "e7d4064c-2db0-446e-9c22-e90348344875",
           "dcd3a49c-4f85-4938-bbed-2dc113944a51",
-          "1599115816223",
-          "0a408fd9-173d-414b-888d-8127857d8947",
-          "19c88287-3866-45e1-ab94-b4bb1666f0fd",
-          "d3098a1e-94c5-4f62-a356-6d853c0a3856",
+          "image_row_y3cCjj",
           "d0c4bd33-f824-42cc-b569-76eacf523fa0",
           "e770461d-1bbb-4949-b3cc-b6d1d731923e",
           "5273034e-bba2-4d72-8ad4-cee849d3141e",
