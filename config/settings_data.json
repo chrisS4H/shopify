@@ -2056,7 +2056,7 @@
           "c077b667-de30-4d49-b0d8-8b50ab14dc86": {
             "type": "image-hero",
             "settings": {
-              "title": "Company Documents",
+              "title": "Reports & Accounts",
               "title_size": 66,
               "subheading": "NB - our financial year runs 1st October - 30th September",
               "link": "",
@@ -2082,7 +2082,7 @@
           "rich_text_cdgwjC": {
             "type": "rich-text",
             "settings": {
-              "title": "Company Policy Documents",
+              "title": "Policy Documents",
               "text": "<ul><li><h3><a href=\"https://cdn.shopify.com/s/files/1/0514/3163/7191/files/Safeguarding_Policy_-_Sport4Health.pdf?v=1714752853\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0514/3163/7191/files/Safeguarding_Policy_-_Sport4Health.pdf?v=1714752853\">Safeguarding Policy</a></h3></li></ul>",
               "align_text": "left",
               "narrow_column": true,
