@@ -1922,63 +1922,6 @@
           "autoplay_speed": 8
         }
       },
-      "1629455632fe0409c9": {
-        "type": "slideshow",
-        "blocks": {
-          "1629455632fe0409c9-0": {
-            "type": "image",
-            "settings": {
-              "title": "Current funders and supporters",
-              "title_size": 66,
-              "subheading": "",
-              "link": "shopify://pages/fundersandsupporters",
-              "link_text": "Click here to find out more",
-              "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/S4H0762.jpg",
-              "focal_point": "center center"
-            }
-          },
-          "f9275977-dfb1-42b1-a486-4bf49b04df87": {
-            "type": "image",
-            "settings": {
-              "title": "Our projects",
-              "title_size": 66,
-              "subheading": "",
-              "link": "shopify://pages/ourprojects",
-              "link_text": "Click here to find out more",
-              "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/S4H1367.jpg",
-              "focal_point": "center center"
-            }
-          },
-          "889d79a2-c49a-4355-a203-b42082011027": {
-            "type": "image",
-            "settings": {
-              "title": "Meet the team",
-              "title_size": 66,
-              "subheading": "",
-              "link": "shopify://pages/ourteam",
-              "link_text": "Click here to find out more",
-              "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/S4H1143.jpg",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "1629455632fe0409c9-0",
-          "f9275977-dfb1-42b1-a486-4bf49b04df87",
-          "889d79a2-c49a-4355-a203-b42082011027"
-        ],
-        "settings": {
-          "section_height": "650px",
-          "mobile_height": "auto",
-          "parallax": false,
-          "style": "dots",
-          "autoplay": true,
-          "autoplay_speed": 5
-        }
-      },
       "162945578305e3514d": {
         "type": "featured-content",
         "settings": {
@@ -2581,7 +2524,6 @@
       "1629485721848d2324",
       "160526799552627910",
       "162945578305e3514d",
-      "1629455632fe0409c9",
       "16063959707add984d"
     ]
   },
