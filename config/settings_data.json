@@ -542,7 +542,6 @@
           "popup_seconds": 2,
           "popup_days": 30,
           "popup_title": "We have just received multi-year funding from Mercers' Charitable Foundation!",
-          "popup_image": "shopify://shop_images/Screenshot_2025-01-02_at_12.48.45.png",
           "popup_text": "<p>Huge thanks to the trustees and everyone involved.</p>",
           "close_text": "",
           "enable_newsletter": false,
@@ -594,7 +593,7 @@
           "1599243258198": {
             "type": "rich-text",
             "settings": {
-              "title": "Sport4Health CIC, St Gabriel’s Parish House, Glasgow Terrace, London, SW1V 3AA",
+              "title": "Sport4Health, St Gabriel’s Parish House, Glasgow Terrace, London, SW1V 3AA",
               "text": "<p>If you would like to find out more please do not hesitate to get in touch!</p>",
               "align_text": "left",
               "narrow_column": false,
