@@ -1855,6 +1855,19 @@
               "focal_point": "center center"
             }
           },
+          "image_b6NKRC": {
+            "type": "image",
+            "settings": {
+              "title": "Enroll for private or group coaching classes by experts!",
+              "title_size": 80,
+              "subheading": "We are dedicated to help individuals of all ages achieve their goals in badminton and table tennis. Our private coaching classes offer a personalized approach to learning, tailored to meet the unique needs and skill levels of each student.",
+              "link": "",
+              "link_text": "",
+              "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify://shop_images/S4H1840.jpg",
+              "focal_point": "center center"
+            }
+          },
           "40b9ba75-8eae-46d6-b0fa-08af2ab6ce7f": {
             "type": "image",
             "settings": {
@@ -1871,6 +1884,7 @@
         },
         "block_order": [
           "16294543141b5b3ae8-0",
+          "image_b6NKRC",
           "40b9ba75-8eae-46d6-b0fa-08af2ab6ce7f"
         ],
         "settings": {
