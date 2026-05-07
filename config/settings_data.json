@@ -538,7 +538,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "enabled",
+          "mode": "disabled",
           "popup_seconds": 2,
           "popup_days": 30,
           "popup_title": "We have just received multi-year funding from Mercers' Charitable Foundation!",
