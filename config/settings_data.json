@@ -210,14 +210,14 @@
           "dc44be9c-31bf-4608-8602-9f8644e1be06": {
             "type": "image-hero",
             "settings": {
-              "title": "Our t-shirts tick all the boxes for performance and style",
+              "title": "",
               "title_size": 56,
-              "subheading": "Delivery is currently only offered within the UK",
+              "subheading": "All proceeds go directly to Sports4Health, helping us deliver inclusive sports sessions, improve wellbeing, and create opportunities for people in the community to stay active, connected, and healthy.",
               "link": "",
               "link_text": "",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/tshirts.jpg",
-              "focal_point": "center center",
+              "image": "shopify://shop_images/S4H1388.jpg",
+              "focal_point": "bottom left",
               "section_height": "100vh",
               "mobile_height": "500px",
               "parallax": false
