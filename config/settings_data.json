@@ -228,7 +228,7 @@
           "dc44be9c-31bf-4608-8602-9f8644e1be06"
         ],
         "settings": {
-          "per_row": 2,
+          "per_row": 4,
           "collection_image_enable": false,
           "parallax": false,
           "description_position": "top",
