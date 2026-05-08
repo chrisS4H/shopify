@@ -890,7 +890,7 @@
         "type": "product-recommendations",
         "settings": {
           "show_product_recommendations": true,
-          "product_recommendations_heading": "Other t-shirts",
+          "product_recommendations_heading": "Other Products",
           "related_count": 3
         }
       },
