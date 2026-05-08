@@ -211,15 +211,15 @@
             "type": "image-hero",
             "settings": {
               "title": "",
-              "title_size": 56,
+              "title_size": 54,
               "subheading": "All proceeds go directly to Sport4Health, helping us deliver inclusive sports sessions, improve wellbeing, and create opportunities for people in the community to stay active, connected, and healthy.",
               "link": "",
               "link_text": "",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/S4H1388.jpg",
-              "focal_point": "bottom left",
-              "section_height": "100vh",
-              "mobile_height": "500px",
+              "focal_point": "center center",
+              "section_height": "550px",
+              "mobile_height": "250px",
               "parallax": false
             }
           }
