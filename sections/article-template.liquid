@@ -1,19 +1,23 @@
 <article class="page-width" style="padding-top: {{ section.settings.padding_top }}px; padding-bottom: 50px;">
-  <header class="section-header text-center" style="margin-bottom: 40px;">
-    <h1 class="section-header__title" style="margin-bottom: 10px;">{{ article.title }}</h1>
-    
-    {% if section.settings.show_date %}
-      <p class="article__date">{{ article.published_at | time_tag: format: 'month_day_year' }}</p>
-    {% endif %}
-    
-    {% if section.settings.show_author %}
-      <p class="article__author">By {{ article.author }}</p>
-    {% endif %}
-  </header>
+  
+  <div style="max-width: 800px; margin: 0 auto;">
+    <header class="section-header" style="margin-bottom: 40px;">
+      <h1 class="section-header__title" style="margin-bottom: 10px;">{{ article.title }}</h1>
+      
+      {% if section.settings.show_date %}
+        <p class="article__date">{{ article.published_at | time_tag: format: 'month_day_year' }}</p>
+      {% endif %}
+      
+      {% if section.settings.show_author %}
+        <p class="article__author">By {{ article.author }}</p>
+      {% endif %}
+    </header>
 
-  <div class="rte" style="max-width: 800px; margin: 0 auto;">
-    {{ article.content }}
+    <div class="rte">
+      {{ article.content }}
+    </div>
   </div>
+
 </article>
 
 {% schema %}
