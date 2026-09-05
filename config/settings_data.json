@@ -2465,6 +2465,14 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "show_date": true,
+          "show_author": false,
+          "push_down": 140
+        }
       }
     },
     "content_for_index": [
