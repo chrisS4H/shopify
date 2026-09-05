@@ -1880,12 +1880,25 @@
               "image": "shopify://shop_images/S4H1576.jpg",
               "focal_point": "center center"
             }
+          },
+          "image_BigEyJ": {
+            "type": "image",
+            "settings": {
+              "title": "A MESSAGE FROM THE TRUSTEES",
+              "title_size": 80,
+              "subheading": "20 years as a charity and the ongoing battle to raise funds",
+              "link": "shopify://blogs/news/a-message-from-the-trustees",
+              "link_text": "Read more",
+              "text_align": "vertical-bottom horizontal-left",
+              "focal_point": "center center"
+            }
           }
         },
         "block_order": [
           "16294543141b5b3ae8-0",
           "image_JYHmLr",
-          "40b9ba75-8eae-46d6-b0fa-08af2ab6ce7f"
+          "40b9ba75-8eae-46d6-b0fa-08af2ab6ce7f",
+          "image_BigEyJ"
         ],
         "settings": {
           "section_height": "100vh",
