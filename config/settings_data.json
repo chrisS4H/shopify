@@ -1846,7 +1846,7 @@
             "type": "image",
             "settings": {
               "title": "A MESSAGE FROM THE TRUSTEES",
-              "title_size": 80,
+              "title_size": 58,
               "subheading": "20 years as a charity, and the ongoing battle to raise funds...",
               "link": "shopify://blogs/news/a-message-from-the-trustees",
               "link_text": "Read more",
@@ -1859,7 +1859,7 @@
             "type": "image",
             "settings": {
               "title": "Providing FREE sport and social activities for young people to older people from disadvantaged and marginalised communities in London",
-              "title_size": 56,
+              "title_size": 58,
               "subheading": "We are committed to providing opportunities for people to have better health and wellbeing, including those who may not have undertaken much exercise in the past",
               "link": "",
               "link_text": "",
@@ -1872,7 +1872,7 @@
             "type": "image",
             "settings": {
               "title": "Enroll for private or group coaching classes by experts!",
-              "title_size": 80,
+              "title_size": 58,
               "subheading": "We are dedicated to help individuals of all ages achieve their goals in badminton and table tennis. Our private coaching classes offer a personalized approach to learning, tailored to meet the unique needs and skill levels of each student.",
               "link": "",
               "link_text": "",
@@ -1885,7 +1885,7 @@
             "type": "image",
             "settings": {
               "title": "We provide a range of activities for the health and social benefit of all the community",
-              "title_size": 56,
+              "title_size": 58,
               "subheading": "In particular those who are disadvantaged and/or from minority communities.",
               "link": "",
               "link_text": "",
@@ -1939,7 +1939,7 @@
             "type": "image-hero",
             "settings": {
               "title": "What is Sport4Health?",
-              "title_size": 66,
+              "title_size": 68,
               "subheading": "Our aim is to enable people who are disadvantaged in any way to access sport and activities for the health and social benefits that can be achieved.",
               "link": "",
               "link_text": "",
