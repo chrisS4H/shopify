@@ -1465,7 +1465,7 @@
               "enable_image": true,
               "image": "shopify://shop_images/why.jpg",
               "title": "Why?",
-              "text": "<p>We know that taking part in regular and supportive exercise results in <em><strong>better physical and mental health</strong></em>. It helps establish <em><strong>new friendships</strong></em>, widens social networks and <em><strong>reduces isolation</strong></em>. And on top of this, it also helps with learning and developing <em><strong>new skills</strong></em>, improving <em><strong>self-confidence</strong></em> & <em><strong>self-esteem</strong></em>, and it can – and should be – great <em><strong>fun</strong></em>!</p>",
+              "text": "<p>We know that taking part in regular and supportive exercise results in <em><strong>better physical and mental health</strong></em>. It helps establish <em><strong>new friendships</strong></em>, widens social networks, and <em><strong>reduces isolation</strong></em>. On top of this, it also helps with learning and developing <em><strong>new skills</strong></em>, improving <em><strong>self-confidence</strong></em> & <em><strong>self-esteem</strong></em>, and it can – and should be – great <em><strong>fun</strong></em>!</p>",
               "button_label": "",
               "button_link": ""
             }
