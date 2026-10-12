@@ -2431,14 +2431,24 @@
       "page-sections-clothing-template": {
         "type": "page-sections-clothing-template",
         "blocks": {
+          "rich_text_jdchtx": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Rich text block",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "align_text": "left",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
           "2c93ba07-420f-4f16-9f2e-d9d695fb9f31": {
             "type": "image-hero",
             "settings": {
-              "title": "Treat yourself to our high quality t-shirts and help the charity at the same time! Our \nclothing ticks all the boxes for performance, comfort and style.",
-              "title_size": 56,
-              "subheading": "Delivery is currently only offered within the UK",
+              "title": "Treat yourself to our high quality t-shirts and help the charity at the same time!",
+              "title_size": 62,
+              "subheading": "Our clothing ticks all the boxes for performance, comfort and style!! Delivery is currently only offered within the UK.",
               "link": "",
-              "link_text": "",
+              "link_text": "Delivery is currently only offered within the UK",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/tshirts.jpg",
               "focal_point": "center center",
@@ -2469,6 +2479,7 @@
           }
         },
         "block_order": [
+          "rich_text_jdchtx",
           "2c93ba07-420f-4f16-9f2e-d9d695fb9f31",
           "6f47210a-2591-4885-8bbf-daf8bc2dadcf",
           "d6033fa2-31a6-4feb-bac3-54c5675b50bb"
