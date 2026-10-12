@@ -2045,8 +2045,8 @@
             "type": "image-hero",
             "settings": {
               "title": "Reports & Accounts",
-              "title_size": 66,
-              "subheading": "NB - our financial year runs 1st October - 30th September",
+              "title_size": 62,
+              "subheading": "NB - our financial year runs 1st October-30th September",
               "link": "",
               "link_text": "",
               "text_align": "vertical-bottom horizontal-left",
