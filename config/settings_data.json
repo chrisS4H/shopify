@@ -1454,7 +1454,7 @@
               "enable_image": true,
               "image": "shopify://shop_images/what.jpg",
               "title": "What?",
-              "text": "<p>Our aim is to enable people who have little or no opportunity or are disadvantaged in any way to access sport and activity for the health and social benefits that can be achieved.</p><p>We provide a range of sports and activities including badminton, basketball, tennis, table tennis, football, wellbeing classes, nutritional advice, and guided walks.</p>",
+              "text": "<p><em><strong>Our aim</strong></em> is to enable people who have little or no opportunity or are disadvantaged in any way <em><strong>to access sport and activity for the health and social benefits</strong></em> that can be achieved.</p><p><em><strong>We provide</strong></em> a range of sports and activities including: <em>badminton, basketball, tennis, table tennis, football, wellbeing classes, nutritional advice, and guided walks.</em></p>",
               "button_label": "",
               "button_link": ""
             }
@@ -1465,7 +1465,7 @@
               "enable_image": true,
               "image": "shopify://shop_images/why.jpg",
               "title": "Why?",
-              "text": "<p>We know that taking part in regular and supportive exercise results in better physical and mental health; helps establish new friendships, widens social networks and reduces isolation; helps with learning and developing new skills; improves self-confidence and self-esteem. And can – and should be – great fun!</p>",
+              "text": "<p>We know that taking part in regular and supportive exercise results in <em><strong>better physical and mental health</strong></em>. It helps establish <em><strong>new friendships</strong></em>, widens social networks and <em><strong>reduces isolation</strong></em>. And on top of this, it also helps with learning and developing <em><strong>new skills</strong></em>, improving <em><strong>self-confidence</strong></em> & <em><strong>self-esteem</strong></em>, and it can – and should be – great <em><strong>fun</strong></em>!</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -1476,7 +1476,7 @@
               "enable_image": true,
               "image": "shopify://shop_images/S4H0237.jpg",
               "title": "Who?",
-              "text": "<p>We provide a range of targeted community programmes, which are subject to available funding. We also provide individual or small-group private coaching, please enquire here for rates. </p><p>In recent times our focus has been on supporting older people; the LGBT+ community; young people aged 12-25; foreign students studying in London; those affected by long Covid; and the local Filipino community. </p>",
+              "text": "<p><em><strong>We provide</strong></em> a range of <em><strong>targeted community programmes</strong></em>, which are subject to available funding. We also provide <em><strong>individual or small-group private coaching</strong></em> - please go to the 'Contact Us' section to enquire about rates.&nbsp;</p><p>In recent times, our focus has been on supporting: <em><strong>older people</strong></em><em>; the </em><em><strong>LGBTQ+ </strong></em><em>community; </em><em><strong>young people</strong></em><em> aged 12-25; </em><em><strong>foreign students</strong></em><em> studying in London; </em><em><strong>those affected by long Covid</strong></em><em>; and the local </em><em><strong>Filipino community</strong></em><em>.&nbsp;</em></p>",
               "button_label": "",
               "button_link": ""
             }
@@ -1847,7 +1847,7 @@
             "settings": {
               "title": "A MESSAGE FROM THE TRUSTEES",
               "title_size": 80,
-              "subheading": "20 years as a charity and the ongoing battle to raise funds",
+              "subheading": "20 years as a charity, and the ongoing battle to raise funds...",
               "link": "shopify://blogs/news/a-message-from-the-trustees",
               "link_text": "Read more",
               "text_align": "vertical-bottom horizontal-left",
