@@ -837,7 +837,7 @@
             "type": "rich-text",
             "settings": {
               "title": "",
-              "text": "<p>All of our work is made possible through the brilliant support of our funders and donors. For more information, please see our <a href=\"https://sport4health.co.uk/pages/fundersandsupporters\" title=\"https://sport4health.co.uk/pages/fundersandsupporters\"><em><strong>Funders and Supporters page</strong></em></a>.</p>",
+              "text": "<p><em>All of our work is made possible through the brilliant support of our funders and donors</em>. <em>For more information, please see our </em><a href=\"https://sport4health.co.uk/pages/fundersandsupporters\" title=\"https://sport4health.co.uk/pages/fundersandsupporters\"><em><strong>Funders and Supporters page</strong></em></a><em>.</em></p>",
               "align_text": "center",
               "narrow_column": false,
               "enlarge_text": false
