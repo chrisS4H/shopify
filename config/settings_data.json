@@ -1939,7 +1939,7 @@
             "type": "image-hero",
             "settings": {
               "title": "What is Sport4Health?",
-              "title_size": 68,
+              "title_size": 62,
               "subheading": "Our aim is to enable people who are disadvantaged in any way to access sport and activities for the health and social benefits that can be achieved.",
               "link": "",
               "link_text": "",
@@ -1965,7 +1965,7 @@
             "type": "rich-text",
             "settings": {
               "title": "",
-              "text": "<p>We provide a range of activities for the health and social benefit of all the community but in particular those who are disadvantaged and/or from minority communities. Even though we are based in Westminster we also regularly deliver programmes in Wandsworth and Kensington & Chelsea.</p>",
+              "text": "<p>We provide a range of activities for the <em><strong>health and social benefit</strong></em> of all the community but <em><strong>in particular those who are disadvantaged </strong></em>and/or<em><strong> from minority communities</strong></em>. Even though we are based in <em><strong>Westminster</strong></em> we also regularly deliver programmes in <em><strong>Wandsworth</strong></em> and <em><strong>Kensington</strong></em> & <em><strong>Chelsea</strong></em>.</p>",
               "align_text": "left",
               "narrow_column": false,
               "enlarge_text": true
