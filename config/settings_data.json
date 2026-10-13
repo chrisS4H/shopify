@@ -37,7 +37,7 @@
     "color_image_1_opacity": 60,
     "color_small_image_bg": "rgba(0,0,0,0)",
     "color_large_image_bg": "#000000",
-    "type_header_font_family": "harmonia_sans_n7",
+    "type_header_font_family": "poppins_n4",
     "type_header_spacing": "-25",
     "type_header_base_size": 26,
     "type_header_line_height": 1,
@@ -625,13 +625,13 @@
           "1599076724437": {
             "type": "image-hero",
             "settings": {
-              "title": "Meet the team",
+              "title": "It all starts with you!",
               "title_size": 62,
-              "subheading": "Sport4Health is governed by many of the people it aims to support and is rich in lived experience.",
-              "link": "",
-              "link_text": "",
+              "subheading": "Are you passionate about the mental and physical wellbeing of others? Join us on our mission to give everyone a better and healthier lifestyle...",
+              "link": "https://sport4health.co.uk/pages/aboutus",
+              "link_text": "Learn more about us here",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/S4H1147.jpg",
+              "image": "shopify://shop_images/Screenshot_2026-10-13_at_13.47.57.png",
               "focal_point": "center center",
               "section_height": "100vh",
               "mobile_height": "500px",
@@ -648,36 +648,125 @@
               "enlarge_text": false
             }
           },
-          "dcd3a49c-4f85-4938-bbed-2dc113944a51": {
+          "rich_text_TfNRXr": {
             "type": "rich-text",
             "settings": {
-              "title": "",
-              "text": "<p>The Board is also a living example of intersectionality – 5 of the 7 Directors are LGBTQ+; 5 consider themselves to be Minority Ethnic; and 5 are aged 50+. The majority of the coaches/staff we use are Minority Ethnic and reflect the communities we work with and London itself.</p>",
-              "align_text": "left",
-              "narrow_column": false,
-              "enlarge_text": true
+              "title": "Who are we?",
+              "text": "<p>Type out about the charity here...</p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false
             }
           },
-          "image_row_y3cCjj": {
+          "featured_collection_WhKMf7": {
+            "type": "featured-collection",
+            "settings": {
+              "title": "Our Focus",
+              "collection": "",
+              "per_row": 4,
+              "rows": 1,
+              "view_all": true
+            }
+          },
+          "rich_text_Xn3WGV": {
+            "type": "rich-text",
+            "settings": {
+              "title": "What we offer:",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "align_text": "left",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
+          "hero_video_YhHzA9": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Bring your\nbrand to life.",
+              "title_size": 80,
+              "subheading": "Seamless hero videos",
+              "link_text": "Optional button",
+              "link": "",
+              "text_align": "vertical-bottom horizontal-left",
+              "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "rich_text_cFRdeW": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Why we need you/What we are asking for...",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "align_text": "left",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
+          "background_image_text_9qWYkX": {
+            "type": "background-image-text",
+            "settings": {
+              "subtitle": "Impressive",
+              "title": "Donate here:",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+              "button_label": "Donate now",
+              "button_link": "shopify://collections/donation",
+              "image": "shopify://shop_images/sport4health_social_sharing.png",
+              "alignment": "center",
+              "color_border": "#f4f4f4",
+              "layout": "left",
+              "height": 550,
+              "parallax": true
+            }
+          },
+          "testimonials_hiHjxH": {
+            "type": "testimonials",
+            "settings": {
+              "title": "Testimonials",
+              "align_text": "left",
+              "round_images": false,
+              "testimonial_1": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+              "author_1": "Author's name",
+              "testimonial_2": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+              "author_2": "Author's name"
+            }
+          },
+          "rich_text_MpnBNH": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Other ways you can help...",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "align_text": "left",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
+          "contact_form_BcLQKC": {
+            "type": "contact-form",
+            "settings": {
+              "title": "",
+              "show_phone": false,
+              "narrow_column": true
+            }
+          },
+          "rich_text_DMehVR": {
+            "type": "rich-text",
+            "settings": {
+              "title": "A message of gratitude...",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "align_text": "left",
+              "narrow_column": false,
+              "enlarge_text": false
+            }
+          },
+          "image_row_mt3gmF": {
             "type": "image-row",
             "settings": {
-              "image_1": "shopify://shop_images/Screenshot_2024-11-30_at_11.58.55.png",
               "image_1_link": "",
               "image_2_link": "",
               "image_3_link": "",
               "image_4_link": "",
               "enable_gutter": false,
               "enable_zoom": true
-            }
-          },
-          "d0c4bd33-f824-42cc-b569-76eacf523fa0": {
-            "type": "rich-text",
-            "settings": {
-              "title": "",
-              "text": "<p>Trustees: Dr Premkamon Chaipanichkul, Jaime Morgan Hitchcock, Dr Susan Hunt (Chair), Ms Lissa Landis ACCA, Dr Simon Lloyd-Owen, Ciaran Rafferty, Juel Tuazon</p><p>Executive Director: Edmund Kung MBA</p><p>As a registered charity, the governance of the organisation is in the hands of its Board of Trustees, which is led by Dr. Susan Hunt as Chair. Day-to-day management is the responsibility of the Executive Director, Edmund Kung MBA.</p><p>Ed is a fully qualified coach with extensive experience in running a variety of programmes, and he has a deep knowledge of the charitable sector. He was nominated for an award for his work with disabled people in Kensington & Chelsea. Ed has also served on several panels, including:</p><ul><li>The Grants Advisory Panel for the <strong>Tackling Inequalities Fund</strong>, administered by Versus Arthritis and Sport England.</li><li>The panel for the <strong>Let's Move Together Fund</strong>, also managed by Versus Arthritis.</li><li>The panel for <strong>core funding</strong> administered by the Young Westminster Foundation.</li></ul><p>Additionally, Ed contributed to the recent and highly regarded research undertaken by IVAR, which examined the issues and experiences of smaller organisations in their quest for funding.</p><p>The Board of Trustees includes a diverse group of individuals with a wide range of expertise and experience. Other trustees are:</p><ul><li><strong>Dr. Simon Lloyd Owen</strong> and <strong>Juel Tuazon</strong>, both NHS professionals</li><li><strong>Jaime Morgan Hitchcock</strong>, company director</li><li><strong>Lissa Landis ACCA</strong>, finance director</li><li><strong>Dr. Premkamon Chaipanichkul</strong></li><li><strong>Ciaran Rafferty</strong>, charitable foundation director</li></ul><p>The trustee board possesses a wealth of lived experience in the issues we aim to tackle, and the members are representative of the communities we serve. Our board is also an example of intersectionality, as:</p><ul><li>A majority of trustees identify as <strong>LGBTQ+</strong></li><li>A majority consider themselves to be <strong>Minority Ethnic</strong></li><li>A majority are aged <strong>50+</strong></li></ul><p>Most of the coaches and staff we employ are Minority Ethnic and reflect the communities we work with and London itself. Furthermore, our work is shaped and informed by an advisory group of service users—both past and present—who help us ensure our projects are as impactful as possible.</p><p>We are also deeply grateful to the many volunteers who contribute their time and expertise to support our work. Volunteers help in a variety of ways, including delivering activities, fundraising, updating our website, and managing our social media presence.</p>",
-              "align_text": "left",
-              "narrow_column": false,
-              "enlarge_text": false
             }
           },
           "e770461d-1bbb-4949-b3cc-b6d1d731923e": {
@@ -689,44 +778,23 @@
               "narrow_column": false,
               "enlarge_text": false
             }
-          },
-          "5273034e-bba2-4d72-8ad4-cee849d3141e": {
-            "type": "image-row",
-            "settings": {
-              "image_1": "shopify://shop_images/S4H_Yoga-20881.jpg",
-              "image_1_link": "",
-              "image_2": "shopify://shop_images/S4H0484.jpg",
-              "image_2_link": "",
-              "image_3_link": "",
-              "image_4_link": "",
-              "enable_gutter": false,
-              "enable_zoom": false
-            }
-          },
-          "6cd35280-aa8a-469c-875a-3028f5a2cec2": {
-            "type": "image-row",
-            "settings": {
-              "image_1": "shopify://shop_images/S4H1183.jpg",
-              "image_1_link": "",
-              "image_2": "shopify://shop_images/S4H0153.jpg",
-              "image_2_link": "",
-              "image_3": "shopify://shop_images/S4H1304.jpg",
-              "image_3_link": "",
-              "image_4_link": "",
-              "enable_gutter": false,
-              "enable_zoom": false
-            }
           }
         },
         "block_order": [
           "1599076724437",
           "e7d4064c-2db0-446e-9c22-e90348344875",
-          "dcd3a49c-4f85-4938-bbed-2dc113944a51",
-          "image_row_y3cCjj",
-          "d0c4bd33-f824-42cc-b569-76eacf523fa0",
-          "e770461d-1bbb-4949-b3cc-b6d1d731923e",
-          "5273034e-bba2-4d72-8ad4-cee849d3141e",
-          "6cd35280-aa8a-469c-875a-3028f5a2cec2"
+          "rich_text_TfNRXr",
+          "featured_collection_WhKMf7",
+          "rich_text_Xn3WGV",
+          "hero_video_YhHzA9",
+          "rich_text_cFRdeW",
+          "background_image_text_9qWYkX",
+          "testimonials_hiHjxH",
+          "rich_text_MpnBNH",
+          "contact_form_BcLQKC",
+          "rich_text_DMehVR",
+          "image_row_mt3gmF",
+          "e770461d-1bbb-4949-b3cc-b6d1d731923e"
         ],
         "settings": {
           "page_title_enable": false,
