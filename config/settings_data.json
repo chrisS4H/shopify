@@ -651,8 +651,8 @@
           "rich_text_TfNRXr": {
             "type": "rich-text",
             "settings": {
-              "title": "Who are we?",
-              "text": "<p>Type out about the charity here...</p>",
+              "title": "In summary, what is Sport4Health?",
+              "text": "<p>We are a registered charity (established in 2006) that provides <em><strong>free </strong></em>sport and social activities to a range of people from old to young. We aim to support those who come from disadvantaged and marginalised communities, giving them the opportunities and guidance that they deserve.&nbsp;</p>",
               "align_text": "center",
               "narrow_column": true,
               "enlarge_text": false
@@ -681,11 +681,11 @@
           "hero_video_YhHzA9": {
             "type": "hero-video",
             "settings": {
-              "title": "Bring your\nbrand to life.",
-              "title_size": 80,
-              "subheading": "Seamless hero videos",
-              "link_text": "Optional button",
-              "link": "",
+              "title": "Take a sneak peek at what we've been up to...",
+              "title_size": 68,
+              "subheading": "More insight on our socials",
+              "link_text": "@Sport4HealthUK",
+              "link": "https://www.instagram.com/sport4healthuk/",
               "text_align": "vertical-bottom horizontal-left",
               "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
               "section_height": "650px",
