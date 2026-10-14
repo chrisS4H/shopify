@@ -652,7 +652,7 @@
             "type": "rich-text",
             "settings": {
               "title": "In summary, what is Sport4Health?",
-              "text": "<p>We are a registered charity (established in 2006) that provides <em><strong>free </strong></em>sport and social activities to a range of people from old to young. We aim to support those who come from disadvantaged and marginalised communities, giving them the opportunities and guidance that they deserve.&nbsp;</p>",
+              "text": "<p>We are a registered charity (established in 2006) that provides <em><strong>free </strong></em>sport and social activities to a range of people from old to young. We aim to <em><strong>support</strong></em> those who come from <em><strong>disadvantaged</strong></em> and <em><strong>marginalised communities</strong></em>, giving them the opportunities and guidance that they deserve.&nbsp;</p>",
               "align_text": "center",
               "narrow_column": true,
               "enlarge_text": false
@@ -672,10 +672,20 @@
             "type": "rich-text",
             "settings": {
               "title": "What we offer:",
-              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
-              "align_text": "left",
+              "text": "<p>We provide a range of different sports and activities, where people can come together to make friends, get healthier and learn new skills. We always aim to personalise our approach to each individual to ensure that everyone gets equal opportunities to learn and grow.&nbsp;</p>",
+              "align_text": "center",
               "narrow_column": true,
               "enlarge_text": false
+            }
+          },
+          "rich_text_tynW4B": {
+            "type": "rich-text",
+            "settings": {
+              "title": "",
+              "text": "<h3>Badminton - Basketball - Tennis - Table tennis - Football - Wellbeing classes - Nutritional advice - Guided walks</h3>",
+              "align_text": "center",
+              "narrow_column": false,
+              "enlarge_text": true
             }
           },
           "hero_video_YhHzA9": {
@@ -786,6 +796,7 @@
           "rich_text_TfNRXr",
           "featured_collection_WhKMf7",
           "rich_text_Xn3WGV",
+          "rich_text_tynW4B",
           "hero_video_YhHzA9",
           "rich_text_cFRdeW",
           "background_image_text_9qWYkX",
