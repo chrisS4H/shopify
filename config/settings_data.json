@@ -661,35 +661,26 @@
           "image_row_zdfrGB": {
             "type": "image-row",
             "settings": {
-              "image_1": "shopify://shop_images/S4H1388.jpg",
+              "image_1": "shopify://shop_images/Screenshot_2026-10-14_at_14.36.30.png",
               "image_1_link": "",
-              "image_2": "shopify://shop_images/S4H1127.jpg",
+              "image_2": "shopify://shop_images/Screenshot_2026-10-14_at_14.39.30.png",
               "image_2_link": "",
-              "image_3": "shopify://shop_images/S4H1013.jpg",
+              "image_3": "shopify://shop_images/Screenshot_2026-10-14_at_14.39.45.png",
               "image_3_link": "",
-              "image_4": "shopify://shop_images/why.jpg",
+              "image_4": "shopify://shop_images/Screenshot_2026-10-14_at_14.40.01.png",
               "image_4_link": "",
               "enable_gutter": false,
               "enable_zoom": true
             }
           },
-          "rich_text_AxP8np": {
-            "type": "rich-text",
-            "settings": {
-              "title": "COMMUNITY                          HEALTH                                          SKILLS                                        FUN",
-              "text": "",
-              "align_text": "left",
-              "narrow_column": false,
-              "enlarge_text": false
-            }
-          },
           "text_and_image_yi8B9i": {
             "type": "text-and-image",
             "settings": {
-              "image_width": 300,
-              "subtitle": "Improved",
-              "title": "Image with text",
-              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "image": "shopify://shop_images/S4H1388.jpg",
+              "image_width": 500,
+              "subtitle": "",
+              "title": "COMMUNITY",
+              "text": "<ul><li><em><strong>Diversity </strong></em>- Meet people from a range of ages, races and social backgrounds.</li><li><em><strong>Friendships</strong></em><em> </em>- Build friendships as you meet and socialise with new people.</li><li><em><strong>Family </strong></em>- Get involved and become a part of our family!&nbsp;</li></ul>",
               "button_label": "Optional button",
               "button_link": "",
               "layout": "left"
@@ -698,10 +689,11 @@
           "text_and_image_BbJRnz": {
             "type": "text-and-image",
             "settings": {
-              "image_width": 300,
-              "subtitle": "Improved",
-              "title": "Image with text",
-              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "image": "shopify://shop_images/S4H1127.jpg",
+              "image_width": 500,
+              "subtitle": "",
+              "title": "HEALTH",
+              "text": "<ul><li><em><strong>Get fit </strong></em>- ouhfseoinnondso huff</li><li><em><strong>Strength </strong></em>-&nbsp;iuesfuinesonoshoudshuhduhs&nbsp;</li><li><em><strong>Healthy eating </strong></em>-&nbsp;noushueaobfononso</li></ul>",
               "button_label": "Optional button",
               "button_link": "",
               "layout": "right"
@@ -710,10 +702,11 @@
           "text_and_image_wamM3q": {
             "type": "text-and-image",
             "settings": {
-              "image_width": 300,
-              "subtitle": "Improved",
-              "title": "Image with text",
-              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "image": "shopify://shop_images/S4H1013.jpg",
+              "image_width": 500,
+              "subtitle": "",
+              "title": "SKILLS",
+              "text": "<ul><li><em><strong>Qualified coaches </strong></em>- uohfoidndso</li><li><em><strong>Training + Games </strong></em>- nosdhoindoimsoi</li><li><em><strong>Reach the next level </strong></em>- uenoainoienoims</li></ul>",
               "button_label": "Optional button",
               "button_link": "",
               "layout": "left"
@@ -722,10 +715,11 @@
           "text_and_image_JrWUeV": {
             "type": "text-and-image",
             "settings": {
-              "image_width": 300,
-              "subtitle": "Improved",
-              "title": "Image with text",
-              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "image": "shopify://shop_images/why.jpg",
+              "image_width": 500,
+              "subtitle": "",
+              "title": "FUN!!",
+              "text": "<ul><li><em><strong>Lots of laughter </strong></em>- jdsoundoinoi</li><li><em><strong>Friendly games </strong></em>- newofnoewinowem</li><li><em><strong>Highlight of your week </strong></em>- uwihofewinoweifm</li></ul>",
               "button_label": "Optional button",
               "button_link": "",
               "layout": "right"
@@ -858,7 +852,6 @@
           "e7d4064c-2db0-446e-9c22-e90348344875",
           "rich_text_TfNRXr",
           "image_row_zdfrGB",
-          "rich_text_AxP8np",
           "text_and_image_yi8B9i",
           "text_and_image_BbJRnz",
           "text_and_image_wamM3q",
