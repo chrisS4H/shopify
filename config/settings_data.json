@@ -681,8 +681,8 @@
               "subtitle": "",
               "title": "COMMUNITY",
               "text": "<ul><li><em><strong>Diversity </strong></em>- Meet people from a range of ages, races and social backgrounds.</li><li><em><strong>Friendships</strong></em><em> </em>- Build friendships as you meet and socialise with new people.</li><li><em><strong>Family </strong></em>- Get involved and become a part of our family!&nbsp;</li></ul>",
-              "button_label": "Optional button",
-              "button_link": "",
+              "button_label": "Want to help our community?",
+              "button_link": "shopify://collections/donation",
               "layout": "left"
             }
           },
