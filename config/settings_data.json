@@ -658,14 +658,77 @@
               "enlarge_text": false
             }
           },
-          "featured_collection_WhKMf7": {
-            "type": "featured-collection",
+          "image_row_zdfrGB": {
+            "type": "image-row",
             "settings": {
-              "title": "Our Focus",
-              "collection": "",
-              "per_row": 4,
-              "rows": 1,
-              "view_all": true
+              "image_1": "shopify://shop_images/S4H1388.jpg",
+              "image_1_link": "",
+              "image_2": "shopify://shop_images/S4H1127.jpg",
+              "image_2_link": "",
+              "image_3": "shopify://shop_images/S4H1013.jpg",
+              "image_3_link": "",
+              "image_4": "shopify://shop_images/why.jpg",
+              "image_4_link": "",
+              "enable_gutter": false,
+              "enable_zoom": true
+            }
+          },
+          "rich_text_AxP8np": {
+            "type": "rich-text",
+            "settings": {
+              "title": "COMMUNITY                          HEALTH                                          SKILLS                                        FUN",
+              "text": "",
+              "align_text": "left",
+              "narrow_column": false,
+              "enlarge_text": false
+            }
+          },
+          "text_and_image_yi8B9i": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 300,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "text_and_image_BbJRnz": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 300,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
+          "text_and_image_wamM3q": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 300,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "left"
+            }
+          },
+          "text_and_image_JrWUeV": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 300,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "right"
             }
           },
           "rich_text_Xn3WGV": {
@@ -794,7 +857,12 @@
           "1599076724437",
           "e7d4064c-2db0-446e-9c22-e90348344875",
           "rich_text_TfNRXr",
-          "featured_collection_WhKMf7",
+          "image_row_zdfrGB",
+          "rich_text_AxP8np",
+          "text_and_image_yi8B9i",
+          "text_and_image_BbJRnz",
+          "text_and_image_wamM3q",
+          "text_and_image_JrWUeV",
           "rich_text_Xn3WGV",
           "rich_text_tynW4B",
           "hero_video_YhHzA9",
