@@ -681,8 +681,8 @@
           "rich_text_tynW4B": {
             "type": "rich-text",
             "settings": {
-              "title": "",
-              "text": "<h3>Badminton - Basketball - Tennis - Table tennis - Football - Wellbeing classes - Nutritional advice - Guided walks</h3>",
+              "title": "Badminton - Basketball - Tennis - Table tennis - Football - Wellbeing classes - Nutritional advice - Guided walks",
+              "text": "",
               "align_text": "center",
               "narrow_column": false,
               "enlarge_text": true
