@@ -694,8 +694,8 @@
               "subtitle": "",
               "title": "HEALTH",
               "text": "<ul><li><em><strong>Keep fit </strong></em>- Keep up with regular exercise to support and build a healthier body.&nbsp;</li><li><em><strong>Strengthen </strong></em>- Build muscle and gain endurance to protect your long-term health and function easier in your day-to-day life.&nbsp;</li><li><em><strong>Healthy eating </strong></em>- Receive nutritional tips from our coaches to support a healthy lifestyle and prevent injury/sickness.&nbsp;</li></ul>",
-              "button_label": "Optional button",
-              "button_link": "",
+              "button_label": "Care about our cause?",
+              "button_link": "shopify://collections/donation",
               "layout": "right"
             }
           },
@@ -707,8 +707,8 @@
               "subtitle": "",
               "title": "SKILLS",
               "text": "<ul><li><em><strong>Qualified coaches </strong></em>- We bring you qualified coaches to ensure you receive the best training possible.</li><li><em><strong>Training + Games </strong></em>- Not only do we play friendly matches and games, but we also provide professional coaching (including warmups, drills, technique practise etc...).</li><li><em><strong>Reach the next level </strong></em>- We welcome all abilities from beginner to advanced. We are here to help you grow.</li></ul>",
-              "button_label": "Optional button",
-              "button_link": "",
+              "button_label": "Want to help fund top opportunities?",
+              "button_link": "shopify://collections/donation",
               "layout": "left"
             }
           },
@@ -720,8 +720,8 @@
               "subtitle": "",
               "title": "FUN!!",
               "text": "<ul><li><em><strong>Lots of laughter </strong></em>- We all make some mistakes while we're learning. We're here to laugh it off and try again!</li><li><em><strong>Friendly games - </strong></em>We encourage games at the end of sessions to rank up the stakes and build some friendly competition!</li><li><em><strong>Highlight of your week </strong></em>- After a long week of work, school, or whatever it may be... why not add some fun activities to your schedule to become the highlight of your week :))</li></ul>",
-              "button_label": "Optional button",
-              "button_link": "",
+              "button_label": "Our clothing makes events extra fun!",
+              "button_link": "shopify://collections/clothing",
               "layout": "right"
             }
           },
