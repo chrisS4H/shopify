@@ -763,7 +763,7 @@
             "type": "rich-text",
             "settings": {
               "title": "Why we need you/What we are asking for...",
-              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "text": "<p>To keep up with our goal of inclusivity, we keep our activities free to ensure everything is easily accessible for everybody. However, this can only happen through incredible people, such as yourselves, helping to fund and join us on our mission. We are incredibly passionate about our work and want to give every individual the best opportunity to receive support in working towards their healthier lifestyles.&nbsp;</p><p></p><p>We are looking for donations to fund all of the incredible work that we have been doing here and would love to continue doing.&nbsp;</p>",
               "align_text": "left",
               "narrow_column": true,
               "enlarge_text": false
@@ -772,12 +772,12 @@
           "background_image_text_9qWYkX": {
             "type": "background-image-text",
             "settings": {
-              "subtitle": "Impressive",
-              "title": "Donate here:",
-              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-              "button_label": "Donate now",
+              "subtitle": "Donate",
+              "title": "How to Help",
+              "text": "<p>If our work resonates with you and you would like to join us on our mission of a better, more inclusive, and healthier world...&nbsp;</p>",
+              "button_label": "Click here to donate now",
               "button_link": "shopify://collections/donation",
-              "image": "shopify://shop_images/sport4health_social_sharing.png",
+              "image": "shopify://shop_images/sport4health_social_sharing_7f487695-c7fa-487e-a28d-039ca2f6a8da.png",
               "alignment": "center",
               "color_border": "#f4f4f4",
               "layout": "left",
