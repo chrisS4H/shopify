@@ -825,12 +825,16 @@
               "enlarge_text": false
             }
           },
-          "image_row_mt3gmF": {
+          "image_row_yEzLJA": {
             "type": "image-row",
             "settings": {
+              "image_1": "shopify://shop_images/Screenshot_2026-10-15_at_14.28.16.png",
               "image_1_link": "",
+              "image_2": "shopify://shop_images/Screenshot_2026-10-15_at_14.28.55.png",
               "image_2_link": "",
+              "image_3": "shopify://shop_images/IMG_6741.jpg",
               "image_3_link": "",
+              "image_4": "shopify://shop_images/IMG_6740.jpg",
               "image_4_link": "",
               "enable_gutter": false,
               "enable_zoom": true
@@ -865,7 +869,7 @@
           "rich_text_MpnBNH",
           "contact_form_BcLQKC",
           "rich_text_DMehVR",
-          "image_row_mt3gmF",
+          "image_row_yEzLJA",
           "e770461d-1bbb-4949-b3cc-b6d1d731923e"
         ],
         "settings": {
