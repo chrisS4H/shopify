@@ -2575,16 +2575,6 @@
       "page-sections-clothing-template": {
         "type": "page-sections-clothing-template",
         "blocks": {
-          "rich_text_jdchtx": {
-            "type": "rich-text",
-            "settings": {
-              "title": "Rich text block",
-              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
-              "align_text": "left",
-              "narrow_column": true,
-              "enlarge_text": false
-            }
-          },
           "2c93ba07-420f-4f16-9f2e-d9d695fb9f31": {
             "type": "image-hero",
             "settings": {
@@ -2623,7 +2613,6 @@
           }
         },
         "block_order": [
-          "rich_text_jdchtx",
           "2c93ba07-420f-4f16-9f2e-d9d695fb9f31",
           "6f47210a-2591-4885-8bbf-daf8bc2dadcf",
           "d6033fa2-31a6-4feb-bac3-54c5675b50bb"
