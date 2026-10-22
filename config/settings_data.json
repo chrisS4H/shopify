@@ -64,7 +64,7 @@
     "quantity_enable": false,
     "variant_labels_enable": false,
     "variant_type": "button",
-    "enable_payment_button": true,
+    "enable_payment_button": false,
     "inventory_enable": false,
     "inventory_threshold": 10,
     "inventory_transfers_enable": false,
