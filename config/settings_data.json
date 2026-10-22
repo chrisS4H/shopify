@@ -2616,7 +2616,7 @@
             "settings": {
               "title": "",
               "collection": "clothing",
-              "per_row": 2,
+              "per_row": 3,
               "rows": 2,
               "view_all": false
             }
