@@ -2636,7 +2636,7 @@
           "image_hero_zNEQjm": {
             "type": "image-hero",
             "settings": {
-              "title": "Our Team",
+              "title": "Meet the team",
               "title_size": 66,
               "subheading": "Sport4Health is governed by many of the people it aims to support and is rich in lived experience.",
               "link": "",
@@ -2648,10 +2648,38 @@
               "mobile_height": "auto",
               "parallax": true
             }
+          },
+          "rich_text_waRnbY": {
+            "type": "rich-text",
+            "settings": {
+              "title": "",
+              "text": "<p>The Board is also a living example of intersectionality – 5 of the 7 Directors are LGBTQ+; 5 consider themselves to be Minority Ethnic; and 5 are aged 50+. The majority of the coaches/staff we use are Minority Ethnic and reflect the communities we work with and London itself.</p>",
+              "align_text": "left",
+              "narrow_column": false,
+              "enlarge_text": true
+            }
+          },
+          "image_hero_qJNA7g": {
+            "type": "image-hero",
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify://shop_images/Screenshot_2024-11-30_at_11.58.55.png",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto",
+              "parallax": true
+            }
           }
         },
         "block_order": [
-          "image_hero_zNEQjm"
+          "image_hero_zNEQjm",
+          "rich_text_waRnbY",
+          "image_hero_qJNA7g"
         ],
         "settings": {
           "page_title_enable": false,
