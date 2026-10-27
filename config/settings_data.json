@@ -791,10 +791,10 @@
               "title": "Testimonials",
               "align_text": "left",
               "round_images": false,
-              "testimonial_1": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author_1": "Author's name",
-              "testimonial_2": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author_2": "Author's name"
+              "testimonial_1": "<p><em>\"It's good socially - as well as, you know, physically, mentally... everything. It's just, brilliant. We thank Sports4health for sorting it all out for us\".</em></p>",
+              "author_1": "- Gill",
+              "testimonial_2": "<p><em>\"It helped me. It helped my confidence. It helped my mental strength as well, because at least on weekdays we are working, but on weekends we have this fun times with the group. And it helps. This helps me.&nbsp;</em></p>",
+              "author_2": "- Mark"
             }
           },
           "rich_text_MpnBNH": {
