@@ -2629,6 +2629,34 @@
           "show_author": false,
           "push_down": 140
         }
+      },
+      "page-our-team": {
+        "type": "page-our-team",
+        "blocks": {
+          "image_hero_zNEQjm": {
+            "type": "image-hero",
+            "settings": {
+              "title": "Meet the team",
+              "title_size": 66,
+              "subheading": "Sport4Health is governed by many of the people it aims to support and is rich in lived experience.",
+              "link": "",
+              "link_text": "",
+              "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify://shop_images/S4H1147.jpg",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto",
+              "parallax": true
+            }
+          }
+        },
+        "block_order": [
+          "image_hero_zNEQjm"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
