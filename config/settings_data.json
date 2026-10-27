@@ -682,7 +682,7 @@
               "title": "COMMUNITY",
               "text": "<ul><li><em><strong>Diversity </strong></em>- Meet people from a range of ages, races and social backgrounds.</li><li><em><strong>Friendships</strong></em><em> </em>- Build friendships as you meet and socialise with new people.</li><li><em><strong>Family </strong></em>- Get involved and become a part of our family!&nbsp;</li></ul>",
               "button_label": "Want to help our community?",
-              "button_link": "shopify://collections/donation",
+              "button_link": "shopify://products/donate-5",
               "layout": "left"
             }
           },
@@ -695,7 +695,7 @@
               "title": "HEALTH",
               "text": "<ul><li><em><strong>Keep fit </strong></em>- Keep up with regular exercise to support and build a healthier body.&nbsp;</li><li><em><strong>Strengthen </strong></em>- Build muscle and gain endurance to protect your long-term health and function easier in your day-to-day life.&nbsp;</li><li><em><strong>Healthy eating </strong></em>- Receive nutritional tips from our coaches to support a healthy lifestyle and prevent injury/sickness.&nbsp;</li></ul>",
               "button_label": "Care about our cause?",
-              "button_link": "shopify://collections/donation",
+              "button_link": "shopify://products/donate-5",
               "layout": "right"
             }
           },
@@ -708,7 +708,7 @@
               "title": "SKILLS",
               "text": "<ul><li><em><strong>Qualified coaches </strong></em>- We bring you qualified coaches to ensure you receive the best training possible.</li><li><em><strong>Training + Games </strong></em>- Not only do we play friendly matches and games, but we also provide professional coaching (including warmups, drills, technique practise etc...).</li><li><em><strong>Reach the next level </strong></em>- We welcome all abilities from beginner to advanced. We are here to help you grow.</li></ul>",
               "button_label": "Want to help fund top opportunities?",
-              "button_link": "shopify://collections/donation",
+              "button_link": "shopify://products/donate-5",
               "layout": "left"
             }
           },
@@ -776,7 +776,7 @@
               "title": "How to Help",
               "text": "<p>If our work resonates with you and you would like to join us on our mission of a better, more inclusive, and healthier world...&nbsp;</p>",
               "button_label": "Click here to donate now",
-              "button_link": "shopify://collections/donation",
+              "button_link": "shopify://products/donate-5",
               "image": "shopify://shop_images/sport4health_social_sharing_7f487695-c7fa-487e-a28d-039ca2f6a8da.png",
               "alignment": "center",
               "color_border": "#f4f4f4",
