@@ -2377,6 +2377,16 @@
               "enlarge_text": false
             }
           },
+          "rich_text_KYeyNb": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Contact us for more information",
+              "text": "<p>Please don't hesitate to reach out to us if you have any further questions or queries regarding our charity or ways in which you would like to donate/support us. Thank you for taking the time and interest in Sport4Health.&nbsp;</p>",
+              "align_text": "left",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
           "contact_form_nMYcUh": {
             "type": "contact-form",
             "settings": {
@@ -2402,6 +2412,7 @@
           "441ec8cb-7e92-4472-93bb-045624a80be9",
           "87663472-c489-4022-914d-8c8f18ec4abe",
           "9d1dc877-09f4-4db7-8aae-3bec518fc130",
+          "rich_text_KYeyNb",
           "contact_form_nMYcUh",
           "7a55aa1d-ed87-41e7-ad8e-7997ee979e07"
         ],
