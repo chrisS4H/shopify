@@ -255,13 +255,14 @@
           "1599296588073": {
             "type": "image-hero",
             "settings": {
-              "title": "Latest news and events",
-              "title_size": 46,
+              "title": "Latest news and events...",
+              "title_size": 68,
               "subheading": "Keeping you up-to-date with Sport4Health",
+              "link": "",
               "link_text": "",
-              "text_align": "vertical-center horizontal-left",
-              "image": "shopify://shop_images/header_black.png",
-              "focal_point": "center center",
+              "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify://shop_images/Screenshot_2026-10-21_at_16.54.28.png",
+              "focal_point": "bottom left",
               "section_height": "650px",
               "mobile_height": "auto",
               "parallax": true
