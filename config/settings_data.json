@@ -2750,7 +2750,14 @@
       "160526799552627910",
       "162945578305e3514d",
       "16063959707add984d"
-    ]
+    ],
+    "blocks": {
+      "1232542678405107163": {
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Classic": {
